@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChadsChat</string>
+    <style name="StyleWithoutToolbar"
+        parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+</resources>
